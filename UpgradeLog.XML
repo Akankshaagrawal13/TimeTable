@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="timetable">
+</Property><Property Name="Solution File" Value="D:\timetable\timetable.sln">
+</Property><Property Name="Date" Value="Tuesday, November 26, 2013">
+</Property><Property Name="Time" Value="16:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="timetable.sln" Description="File successfully backed up as D:\timetable\Backup\timetable.sln">
+</Event><Event ErrorLevel="1" Project="timetable" Source="..\timetable" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="timetable.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="timetable.sln" Description="Converted">
+</Event></UpgradeLog>

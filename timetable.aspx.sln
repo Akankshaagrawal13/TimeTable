@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "timetable.aspx", "f:\New folder\timetable.aspx", "{6765560E-FE92-43EB-B945-FE952AC0D7FC}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/timetable.aspx"
+		Debug.AspNetCompiler.PhysicalPath = "f:\New folder\timetable.aspx\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\timetable.aspx\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/timetable.aspx"
+		Release.AspNetCompiler.PhysicalPath = "f:\New folder\timetable.aspx\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\timetable.aspx\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49164"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6765560E-FE92-43EB-B945-FE952AC0D7FC}.Debug|.NET.ActiveCfg = Debug|.NET
+		{6765560E-FE92-43EB-B945-FE952AC0D7FC}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,153 @@
+﻿.body 
+{
+	background-color : Black;
+	height: 746px;
+}
+.dynamichoverstyle
+{
+	background-color:#666666;
+	border-color:Black;
+	border-style:inset;
+	border-width : 2px;
+	font-weight:bold;
+	font-family:Rockwell;
+	font-size:x-large;
+	
+}
+.dynamicmenuitemstyle
+{
+	border-style : solid;
+	border-width:5px;
+	background-color:White;
+	border-color:#CCCCCC;
+}
+.DynamicMenuStyle 
+{
+	background-color:#333333;
+	border-color: White;
+	border-style:double;
+	border-width:3px;
+}
+.DynamicSelectedStyle 
+{
+	background-color:Silver;
+	border-color:Black;
+	border-style:groove;
+	border-width:2px;
+}
+.form
+{
+	background-image: url('Copy%20of%20image/gray.jpg'); 
+	height: 598px; 
+	margin-top: 57px; 
+	margin-left: 13px; 
+	margin-right: 17px;
+	width: 1314px;
+}
+.imgbutton
+{
+	margin-left: 67px;
+	margin-top: 8px;
+}
+.lbl
+{
+	
+	Font-Size:Large;
+}
+.menu1
+{
+	border: 4px inset black;
+	background-color : #E3EAEB;
+	font-family : Rockwell;
+    font-size : x-large;
+    margin-left : 0px; 
+}
+
+.Panel1
+{
+	margin-top: 11px;
+	margin-left: 55px;
+	margin-right: 3px;
+}
+	.panel2
+{
+	font-size:x-large;
+}
+.StaticHoverStyle
+{
+	background-color:#666666;
+}
+.StaticMenuStyle
+{
+	 Height:10px;
+}
+.StaticSelectedStyle 
+{
+	background-color:Black;
+}
+.style4
+{
+    width: 156px;
+    height: 54px;
+}
+.style8
+{
+    width: 189px;
+    height: 54px;
+}
+.style9
+{
+    width: 189px;
+    height: 69px;
+}
+.style10
+{
+    height: 69px;
+    width: 156px;
+}
+.style11
+{
+    height: 55px;
+}
+.style12
+{
+    width: 601px;
+}
+.style13
+{
+    width: 155px;
+}
+.style14
+{
+    height: 79px;
+}
+ 
+.tablehead
+{
+	height: 75px; 
+	width: 1275px; 
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.tdtimetableheading
+{
+	font-family : Rockwell; 
+	font-size: xx-large; 
+	font-weight: 300; 
+	color: #FFFFFF; 
+	width: 601px;
+}
+
+.textbox
+{
+	font-size:150%;
+    -moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    border:2px solid #003366;
+    border-radius:15px;
+    margin-left: 22px;
+    margin-top: 0px;
+}
+
